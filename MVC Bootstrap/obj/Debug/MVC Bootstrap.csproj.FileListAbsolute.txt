@@ -1,0 +1,55 @@
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\MVC Bootstrap.dll.config
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\MVC Bootstrap.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\MVC Bootstrap.pdb
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Antlr3.Runtime.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\EntityFramework.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\EntityFramework.SqlServer.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Google.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Web.Infrastructure.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Newtonsoft.Json.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Owin.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Helpers.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Mvc.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Optimization.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Razor.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.WebPages.Deployment.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.WebPages.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.WebPages.Razor.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\WebGrease.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Helpers.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Mvc.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Optimization.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.Razor.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.WebPages.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.WebPages.Deployment.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\System.Web.WebPages.Razor.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Newtonsoft.Json.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Antlr3.Runtime.pdb
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\EntityFramework.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\EntityFramework.SqlServer.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Google.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\obj\Debug\MVC Bootstrap.csprojResolveAssemblyReference.cache
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\obj\Debug\MVC Bootstrap.dll
+D:\Work Space\DotNet\MVC Bootstrap\MVC Bootstrap\obj\Debug\MVC Bootstrap.pdb
