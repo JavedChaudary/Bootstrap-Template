@@ -1,0 +1,14 @@
+﻿/* Tech Waly */
+Your title: Javed Jaidi
+Mail: javaidchaudary@gmail.com
+Twitter: @JavaidGrewal.
+Location: Pakistan.
+
+/* THANKS */
+Tech Waly
+
+/* techwaly.com */
+Last update: YYYY/MM/DD
+Standards: ASP.Net MVC, HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Visual Studio
